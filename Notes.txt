@@ -1,0 +1,9 @@
+Notes
+
+
+
+
+
+login button color : #00B1E0
+another color:rgb(223, 225, 229)
+bg color: #6e6e6e
